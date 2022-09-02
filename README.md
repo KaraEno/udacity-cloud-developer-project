@@ -15,6 +15,8 @@ The project is split into three parts:
 
 http://new-image-filter-starter-code-dev.us-east-1.elasticbeanstalk.com/
 
+http://new-image-filter-starter-code-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/C281/production/_120339794_gettyimages-1337090251.jpg
+
 ## end
 
 ### Setup Node Environment
